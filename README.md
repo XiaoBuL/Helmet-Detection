@@ -15,6 +15,7 @@ Finally I test my model in HuaWei Mind Studio.
 | SSD | map |
 | --- | --- |
 |Helemt detection|65|
+
 Because I run it in my CPU case,just do 1200 iteration,the accuracy is very low.
 Such as:
 ![test](Helmet/test.png)
